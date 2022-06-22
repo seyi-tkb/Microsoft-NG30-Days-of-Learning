@@ -18,4 +18,5 @@ Insights:
 Even though government and small business segements had high sale prices, government noticeable still had higher units sold.
 The products VTT and Amarilla were the most expensive to produce.
 Discounts for high and medium type products were very high and majority of all discounts were given in 2014.
+
 ----
