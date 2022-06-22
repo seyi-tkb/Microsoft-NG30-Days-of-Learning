@@ -4,7 +4,7 @@ Projects worked on on the data analysis track.
 # 1 - Financial Sample
 Problem Statement:
 To recreate the first days work by replication. The dataset was a sales record of products(across various segments) sold by a manufacturing company. 
-----
+
 Data Sourcing:
 The sample data used for the project was downloaded from a link provided by the programme coordinators and accessed with Microsoft Excel.
 
