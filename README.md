@@ -14,3 +14,4 @@ The dataset had already been cleaned and transformed as it was a sample dataset 
 Analysis
 The analyze data option was used to automatically generate a series of pivotcharts for analysis and some important set were chosen to create the dashboard.
 
+----
