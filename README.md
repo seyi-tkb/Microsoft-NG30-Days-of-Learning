@@ -12,6 +12,10 @@ Data Transformation:
 The dataset had already been cleaned and transformed as it was a sample dataset for practice from Microsoft. It contained fields such as product segment, country, units sold, sales, profit among others.
 
 Analysis:
-The analyze data option was used to automatically generate a series of pivotcharts for analysis and some important set were chosen to create the dashboard.
+The analyze data option was used to automatically generate a series of pivot tables and charts for analysis and some important set were chosen to create the dashboard. Slicers were also added to eneble easy access and maneuverability around the dataset.
 
+Insights:
+Even though government and small business segements had high sale prices, government noticeable still had higher units sold.
+The products VTT and Amarilla were the most expensive to produce.
+Discounts for high and medium type products were very high and majority of all discounts were given in 2014.
 ----
