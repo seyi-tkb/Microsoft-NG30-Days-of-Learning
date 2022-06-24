@@ -38,6 +38,12 @@ The first known infection was in Wuhan, China on 31, Dec 2019.
 
 
 * Insights:
+The U.S. had the most deaths and confirmed cases from Covid-19 in the world.
+North korea reported the lowest recorded cases(just 40) with no deaths from Covid(good numbers especially when comparing them to rest of the countries in the world).
+This was actualized by stringent methods put in place by its government such as declaring national emergency, boder closure and stay-at-home orders. It was also one of the first countries yo implement all these. This later affected their economy leading to food shortages and blocked channels to basic amenities.
+India had the highest reported confimed recoveries in the world.
+Brazil was also really affected being the country with the 2nd most deaths and 3rd most confirmed cases. Also, most confirmed cases were reported May across all 3 years of this record.
 
+* Note that these numbers and visualization only accounts for reported cases as some were unreported and numbers could be substantially larger than this. 
 
 ----
