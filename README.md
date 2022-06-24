@@ -26,3 +26,18 @@ Covid-19 is an infectious disease caused by the SARS-CoV-2 virus. The virus can 
 The first known infection was in Wuhan, China on 31, Dec 2019.
 
 * Problem Statement:
+
+
+* Data Sourcing and Preparation:
+
+
+* Data Cleaning and Transformation:
+
+
+* Analysis:
+
+
+* Insights:
+
+
+----
