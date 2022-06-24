@@ -29,22 +29,22 @@ The first known infection was in Wuhan, China on 31, Dec 2019.
 To generate insight into Covid-19 numbers all around the world.
 
 * Data Sourcing and Preparation:
-The dataset which is updated daily was scrapped from the Github data repository by the Center for Systems Science and Engineering at John Hopkins University. Itc came in 3 different files of the .csv format. The raw format for the confimed global cases was viewed with its link copied and pasted into Excel using the insert from web function. The same steps were also followed for the files containing the death records and recovered cases with all then loaded unto the power query.
+The dataset which is updated daily was scrapped from the Github data repository by the Center for Systems Science and Engineering at John Hopkins University. Itc came in 3 different files of the .csv format. The raw format for the confirmed global cases was viewed with its link copied and pasted into Excel using the insert from web function. The same steps were also followed for the files containing the death records and recovered cases with all then loaded unto the power query.
 
 * Data Cleaning and Transformation:
-On loading the confimred cases to the power query, the source code was was first corrected as there were 879 columns(mostly dates) due to daily updates.
-The first row was promoted to headers. necessary columns were chosen with others unpivoted and combined  to make up the date and confirmed fields. Same was repeated for death and recovered files after which all files were merged. The necessary fileds were formatted to the types they were meant to be in, numbers, dates and texts with the consolidated data then loaded unto an Excel worksheet. New fields of year, month and day were then added.
+On loading the confirmed cases to the power query, the source code was was first corrected as there were 879 columns(mostly dates) due to daily updates.
+The first row was promoted to headers. Necessary columns were chosen with others unpivoted and combined  to make up the date and confirmed fields. Same steps were repeated for death and recovered cases files after which all files were merged. The necessary fileds were formatted to the types they were meant to be, numbers, dates and texts, with the consolidated data then loaded unto an Excel worksheet. New fields of year, month and day were then added.
 
 * Exploration and Analysis:
-the newly loaded dataset which reported cases of Covid-19 and had 11 columns of 251655 rows contained information about the province, country/region, latitude and longitude, number of confirmed cases, confirmed deaths where recorded and recovered cases based on estimates of local and state media reports. Active cases and fatality rate was also calculated.
+The newly loaded dataset which reported cases of Covid-19 and had 11 columns of 251655 rows contained information about the province, country/region, latitude and longitude, number of confirmed cases, confirmed deaths where recorded and recovered cases based on estimates of local and state media reports. Active cases and fatality rate was also calculated.
 Pivot tables and charts were created to draw out insights fromt the various fields.
 
 * Insights:
-The U.S. had the most deaths and confirmed cases from Covid-19 in the world.
 North korea reported the lowest recorded cases(just 40) with no deaths from Covid(good numbers especially when comparing them to rest of the countries in the world).
-This was actualized by stringent methods put in place by its government such as declaring national emergency, boder closure and stay-at-home orders. It was also one of the first countries yo implement all these. This later affected their economy leading to food shortages and blocked channels to basic amenities.
+This was actualized by stringent methods put in place by its government such as declaring national emergency, boder closure and stay-at-home orders. It was also one of the first countries to implement all these. Although, this later affected their economy leading to food shortages and blocked channels to basic amenities.
 India had the highest reported confimed recoveries in the world.
-Brazil was also really affected being the country with the 2nd most deaths and 3rd most confirmed cases. Also, most confirmed cases were reported May across all 3 years of this record.
+The U.S. had the most deaths and confirmed cases from Covid-19 in the world.
+Brazil was also really affected being the country with the 2nd most deaths and 3rd most confirmed cases. Also, the data showed most confirmed cases were reported in May across all 3 years of recording.
 
 * Note that these numbers and visualization only accounts for reported cases as some were unreported and numbers could be substantially larger than this. 
 
