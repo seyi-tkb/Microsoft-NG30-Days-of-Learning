@@ -37,7 +37,7 @@ The first row was promoted to headers. Necessary columns were chosen with others
 
 * Exploration and Analysis:
 The newly loaded dataset which reported cases of Covid-19 and had 11 columns of 251655 rows contained information about the province, country/region, latitude and longitude, number of confirmed cases, confirmed deaths where recorded and recovered cases based on estimates of local and state media reports. Active cases and fatality rate was also calculated.
-Pivot tables and charts were created to draw out insights fromt the various fields.
+Pivot tables and charts were created to draw out insights from the various fields with slicers also added to easily access specific information.
 
 * Insights:
 North korea reported the lowest recorded cases(just 40) with no deaths from Covid(good numbers especially when comparing them to rest of the countries in the world).
