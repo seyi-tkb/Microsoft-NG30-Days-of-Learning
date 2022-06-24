@@ -20,3 +20,9 @@ The products VTT and Amarilla were the most expensive to produce.
 Discounts for high and medium type products were very high and majority of all discounts were given in 2014.
 
 ----
+# 2-3 - Covid-19 Global Cases
+Introduction:
+Covid-19 is an infectious disease caused by the SARS-CoV-2 virus. The virus can be spread through exposure to small particles(respiratory droplets or smaller aerosols) from infected people or sources. Most people who fall sick experience mild to moderate symptoms and recover without special treatment. Although, some become seriously ill and recover without special treatment.
+The first known infection was in Wuhan, China on 31, Dec 2019.
+
+Problem Statement:
