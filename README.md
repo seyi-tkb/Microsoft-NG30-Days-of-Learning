@@ -29,7 +29,7 @@ The first known infection was in Wuhan, China on 31, Dec 2019.
 To generate insight into Covid-19 numbers all around the world.
 
 * Data Sourcing and Preparation:
-
+The dataset was scrapped from the Github data repository by the Center for Systems Science and Engineering at John Hopkins University. Itc came in 3 different files of the .csv format. The raw format for the confimed global cases was viewed with its link copied and pasted into Excel using the insert from web function. The same steps were also followed for the files containing the death records and recovered cases with all then loaded unto the power query.
 
 * Data Cleaning and Transformation:
 On loading the confimred cases to the power query, the source code was was first corrected as there were 879 columns(mostly dates) due to daily updates.
