@@ -35,7 +35,8 @@ The first known infection was in Wuhan, China on 31, Dec 2019.
 
 
 * Analysis:
-
+the dataset which reported cases of Covid-19 contained information about province, country/region, latitude and longitude, number of confirmed cases, confirmed deaths where recorded and recovered cases based on estimates of local and state media reports. Active cases and fatality rate was also calculated.
+Pivot tables and charts were created to draw out insights fromt the various fields.
 
 * Insights:
 The U.S. had the most deaths and confirmed cases from Covid-19 in the world.
