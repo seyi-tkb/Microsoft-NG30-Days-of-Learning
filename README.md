@@ -26,16 +26,17 @@ Covid-19 is an infectious disease caused by the SARS-CoV-2 virus. The virus can 
 The first known infection was in Wuhan, China on 31, Dec 2019.
 
 * Problem Statement:
-
+To generate insight into Covid-19 numbers all around the world.
 
 * Data Sourcing and Preparation:
 
 
 * Data Cleaning and Transformation:
+On loading the confimred cases to the power query, the source code was was first corrected as there were 879 columns(mostly dates) due to daily updates.
+The first row was promoted to headers. necessary columns were chosen with others unpivoted and combined  to make up the date and confirmed fields. Same was repeated for death and recovered files after which all files were merged. The necessary fileds were formatted to the types they were meant to be in, numbers, dates and texts with the consolidated data then loaded unto an Excel worksheet. New fields of year, month and day were then added.
 
-
-* Analysis:
-the dataset which reported cases of Covid-19 contained information about province, country/region, latitude and longitude, number of confirmed cases, confirmed deaths where recorded and recovered cases based on estimates of local and state media reports. Active cases and fatality rate was also calculated.
+* Exploration and Analysis:
+the newly loaded dataset which reported cases of Covid-19 and had 11 columns of 251655 rows contained information about the province, country/region, latitude and longitude, number of confirmed cases, confirmed deaths where recorded and recovered cases based on estimates of local and state media reports. Active cases and fatality rate was also calculated.
 Pivot tables and charts were created to draw out insights fromt the various fields.
 
 * Insights:
