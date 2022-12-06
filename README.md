@@ -12,7 +12,7 @@ The sample data used for the project was downloaded from a link provided by the 
 The dataset had already been cleaned and transformed as it was a sample dataset for practice from Microsoft. It contained fields such as product segment, country, units sold, sales, profit among others.
 
 * Analysis:
-The analyze data option was used to automatically generate a series of pivot tables and charts for analysis and some important set were chosen to create the dashboard. Slicers were also added to eneble easy access and maneuverability around the dataset.
+The analyze data option was used to automatically generate a series of pivot tables and charts for analysis and some important set were chosen to create the dashboard. Slicers were also added to enable easy access and maneuverability around the dataset.
 
 * Insights:
 Even though government and small business segements had high sale prices, government noticeable still had higher units sold.
