@@ -1,5 +1,5 @@
 # Microsoft-NG30-Days-of-Learning
-Projects worked on on the data analysis track.
+Projects on the data analysis track.
 ----
 # 1 - Financial Sample
 * Problem Statement:
